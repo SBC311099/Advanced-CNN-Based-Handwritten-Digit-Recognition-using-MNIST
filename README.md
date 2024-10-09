@@ -61,7 +61,5 @@ This project implements a Convolutional Neural Network (CNN) model for handwritt
 - Extend the current architecture to multi-character recognition using more complex datasets like COCO-Text.
 - Explore more advanced neural network architectures like Recurrent Neural Networks (RNNs) or Transformer models for sequence-based tasks.
 
-## License
 
-This project is licensed under the MIT License.
 
