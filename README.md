@@ -20,12 +20,15 @@ This project implements a Convolutional Neural Network (CNN) model for handwritt
 ### Sample Results:
 
 - **Confusion Matrix:**
+
   ![Confusion Matrix](confusion_matrix.png)
 
 - **Training Loss Curve:**
+
   ![Training Loss Curve](loss_curve.png)
 
 - **Sample Test Predictions:**
+
   ![Test Predictions](test_predictions.png)
 
 ## How to Run the Project
@@ -56,5 +59,11 @@ This project implements a Convolutional Neural Network (CNN) model for handwritt
 
 - The MNIST dataset is used, consisting of 60,000 training images and 10,000 test images of handwritten digits (0-9).
 
+## Future Work
 
+- Extend the current architecture to multi-character recognition using more complex datasets like COCO-Text.
+- Explore more advanced neural network architectures like Recurrent Neural Networks (RNNs) or Transformer models for sequence-based tasks.
 
+## License
+
+This project is licensed under the MIT License.
